@@ -11,6 +11,10 @@ const AuthLayout = () => {
         />
       </div>
       <div className={styles['content']}>
+        <div className={styles['login-pass']}>
+          Login: a@gmail.com
+          <span>Password: 123</span>
+        </div>
         <Outlet />
       </div>
     </div>

@@ -3,6 +3,15 @@
   min-height: 100vh;
 }
 
+.login-pass {
+  position: absolute;
+  top: 70px;
+  color: rgb(9, 131, 212);
+  span {
+    display: block;
+  }
+}
+
 .logo {
   flex: 1;
   display: flex;
