@@ -1,0 +1,6 @@
+The project was created based on 'Vite'
+The application was created for learning how to type react code, a login/registration form was created, adding and deleting products.
+Start project:
+1. git clone https://github.com/fcprime/Pizza-React-Typescript.git
+2. npm install
+3. npm run dev
